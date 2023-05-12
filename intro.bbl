@@ -1,0 +1,2393 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{alrawiHowWellDoodle2016}{inbook}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=59d11ce37fe598f02c876d0f4f3a7a82}{%
+           family={Alrawi},
+           familyi={A\bibinitperiod},
+           given={Danya},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f77eb9d61713d32a5510996fa9780680}{%
+           family={Anthony},
+           familyi={A\bibinitperiod},
+           given={Barbara\bibnamedelima M.},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b079877809074425d13a0e0be8591bf1}{%
+           family={Chung},
+           familyi={C\bibinitperiod},
+           given={Christine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=1045765b1dd2788870b9ad2a30b942f9}{%
+           family={Spiro},
+           familyi={S\bibinitperiod},
+           given={Emma},
+           giveni={E\bibinitperiod}}}%
+        {{hash=2a5db80283bd913987288e85515d3ed4}{%
+           family={Ahn},
+           familyi={A\bibinitperiod},
+           given={Yong-Yeol},
+           giveni={Y\bibinithyphendelim Y\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{d4122035c7aab017e03207e35dc3ecce}
+      \strng{fullhash}{0676def9c0057274e1f543259b5c050a}
+      \strng{bibnamehash}{0676def9c0057274e1f543259b5c050a}
+      \strng{authorbibnamehash}{0676def9c0057274e1f543259b5c050a}
+      \strng{authornamehash}{d4122035c7aab017e03207e35dc3ecce}
+      \strng{authorfullhash}{0676def9c0057274e1f543259b5c050a}
+      \strng{editorbibnamehash}{741047f13d48dd64d84b0812ee214f12}
+      \strng{editornamehash}{741047f13d48dd64d84b0812ee214f12}
+      \strng{editorfullhash}{741047f13d48dd64d84b0812ee214f12}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Web-based Doodle polls, where respondents indicate their availability for a collection of times provided by the poll initiator, are an increasingly common way of selecting a time for an event or meeting. Yet group dynamics can markedly influence an individual’s response, and thus the overall solution quality. Via theoretical worst-case analysis, we analyze certain common behaviors of Doodle poll respondents, including when participants are either more generous with or more protective of their time, showing that deviating from one’s “true availability” can have a substantial impact on the overall quality of the selected time. We show perhaps counter-intuitively that being more generous with your time can lead to inferior time slots being selected, and being more protective of your time can lead to superior time slots being selected. We also bound the improvement and degradation of outcome quality under both types of behaviors.}
+      \field{booktitle}{Social {{Informatics}}}
+      \field{isbn}{978-3-319-47880-7}
+      \field{langid}{english}
+      \field{series}{Lecture {{Notes}} in {{Computer Science}}}
+      \field{title}{How {{Well Do Doodle Polls Do}}?}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{3\bibrangedash 23}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1007/978-3-319-47880-7_1
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\willu\\Zotero\\storage\\P756E3B9\\Alrawi et al. - 2016 - How Well Do Doodle Polls Do.pdf
+      \endverb
+      \keyw{Approval Vote,Social Welfare,Strategic Vote,Time Slot,Vote Behavior}
+    \endentry
+    \entry{balafoutasAffirmativeActionPolicies2012}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4f261cfd234f0af48de3e72930b489a2}{%
+           family={Balafoutas},
+           familyi={B\bibinitperiod},
+           given={Loukas},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=848a999889a2e54a98fd472b1ba29520}{%
+           family={Sutter},
+           familyi={S\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4b6eed214bc523262208df63ba35c8c8}
+      \strng{fullhash}{4b6eed214bc523262208df63ba35c8c8}
+      \strng{bibnamehash}{4b6eed214bc523262208df63ba35c8c8}
+      \strng{authorbibnamehash}{4b6eed214bc523262208df63ba35c8c8}
+      \strng{authornamehash}{4b6eed214bc523262208df63ba35c8c8}
+      \strng{authorfullhash}{4b6eed214bc523262208df63ba35c8c8}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Girl Power The potential of affirmative action policies to reduce overall outcomes because of lower individual performance has been discussed widely and at length. But do quotas or preferential treatment of applicants alter the pool of candidates? Balafoutas and Sutter (p. 579 ; see the Perspective by Villeval ) used an existing laboratory-based task to assess the change in composition of winning candidates and the overall outcome as a function of three affirmative action policies. Policies designed to encourage more women to enter a competitive environment served to recruit enough high-performing individuals to ensure that the efficiency in performing the task was preserved. Beaman et al. (p. 582 , published online 12 January) examined the effects of a constitutionally mandated reservation of village-council and council-leader positions for women in West Bengal after two election cycles (1998 and 2003). The program appeared to narrow the gender gap in aspirations of parents for their children and of children for themselves; in addition, teenage girls spent more time in school and less on household chores. Beliefs and attitudes changed only after the second set of elections—that is, after a longer exposure to female role models—complementing the more rapid policy changes instituted by women council leaders after the first round of elections. , Increasing the representation of competition-averse individuals does not alter overall output. , Gender differences in choosing to enter competitions are one source of unequal labor market outcomes concerning wages and promotions. Given that studying the effects of policy interventions to support women is difficult with field data because of measurement problems and potential lack of control, we evaluated, in a set of controlled laboratory experiments, four interventions: quotas, where one of two winners of a competition must be female; two variants of preferential treatment, where a fixed increment is added to women’s performance; and repetition of the competition, where a second competition takes place if no woman is among the winners. Compared with no intervention, all interventions encourage women to enter competitions more often, and performance is at least equally good, both during and after the competition.}
+      \field{day}{3}
+      \field{issn}{0036-8075, 1095-9203}
+      \field{journaltitle}{Science}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{6068}
+      \field{shortjournal}{Science}
+      \field{title}{Affirmative {{Action Policies Promote Women}} and {{Do Not Harm Efficiency}} in the {{Laboratory}}}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{335}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{579\bibrangedash 582}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1126/science.1211180
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\willu\\Zotero\\storage\\TNAE45DV\\Balafoutas and Sutter - 2012 - Affirmative Action Policies Promote Women and Do N.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/10.1126/science.1211180
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/10.1126/science.1211180
+      \endverb
+    \endentry
+    \entry{bevilacquaBraintoBrainSynchronyLearning2019}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=5e8a868a2dbf6882b044104c6b08c108}{%
+           family={Bevilacqua},
+           familyi={B\bibinitperiod},
+           given={Dana},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9951726314c89c48aacc4cb0ec683781}{%
+           family={Davidesco},
+           familyi={D\bibinitperiod},
+           given={Ido},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b2dd00488ed9a8b87c2f05a2c0370208}{%
+           family={Wan},
+           familyi={W\bibinitperiod},
+           given={Lu},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5da280bed4b67a53ff4da7f332f8daac}{%
+           family={Chaloner},
+           familyi={C\bibinitperiod},
+           given={Kim},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=72d38c366fd464d97fb85388e023e6e0}{%
+           family={Rowland},
+           familyi={R\bibinitperiod},
+           given={Jess},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b5883de6d1f035fe3bf7d9898aa49213}{%
+           family={Ding},
+           familyi={D\bibinitperiod},
+           given={Mingzhou},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5a255466127f21ac513063a1ffd8cab6}{%
+           family={Poeppel},
+           familyi={P\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8879dd079f04d6a3d6073d5b91c6d719}{%
+           family={Dikker},
+           familyi={D\bibinitperiod},
+           given={Suzanne},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1f67549767b8280cfa4a16e04d9f7002}
+      \strng{fullhash}{08a98fb4c802abae166df7f6f93fc01f}
+      \strng{bibnamehash}{08a98fb4c802abae166df7f6f93fc01f}
+      \strng{authorbibnamehash}{08a98fb4c802abae166df7f6f93fc01f}
+      \strng{authornamehash}{1f67549767b8280cfa4a16e04d9f7002}
+      \strng{authorfullhash}{08a98fb4c802abae166df7f6f93fc01f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Abstract How does the human brain support real-world learning? We used wireless electroencephalography to collect neurophysiological data from a group of 12 senior high school students and their teacher during regular biology lessons. Six scheduled classes over the course of the semester were organized such that class materials were presented using different teaching styles (videos and lectures), and students completed a multiple-choice quiz after each class to measure their retention of that lesson's content. Both students' brain-to-brain synchrony and their content retention were higher for videos than lectures across the six classes. Brain-to-brain synchrony between the teacher and students varied as a function of student engagement as well as teacher likeability: Students who reported greater social closeness to the teacher showed higher brain-to-brain synchrony with the teacher, but this was only the case for lectures—that is, when the teacher is an integral part of the content presentation. Furthermore, students' retention of the class content correlated with student–teacher closeness, but not with brain-to-brain synchrony. These findings expand on existing social neuroscience research by showing that social factors such as perceived closeness are reflected in brain-to-brain synchrony in real-world group settings and can predict cognitive outcomes such as students' academic performance.}
+      \field{day}{1}
+      \field{issn}{0898-929X, 1530-8898}
+      \field{journaltitle}{Journal of Cognitive Neuroscience}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{3}
+      \field{shorttitle}{Brain-to-{{Brain Synchrony}} and {{Learning Outcomes Vary}} by {{Student}}–{{Teacher Dynamics}}}
+      \field{title}{Brain-to-{{Brain Synchrony}} and {{Learning Outcomes Vary}} by {{Student}}–{{Teacher Dynamics}}: {{Evidence}} from a {{Real-world Classroom Electroencephalography Study}}}
+      \field{urlday}{10}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{31}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{401\bibrangedash 411}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1162/jocn_a_01274
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\willu\\Zotero\\storage\\EQXM26BW\\Bevilacqua et al. - 2019 - Brain-to-Brain Synchrony and Learning Outcomes Var.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://direct.mit.edu/jocn/article/31/3/401/28957/Brain-to-Brain-Synchrony-and-Learning-Outcomes
+      \endverb
+      \verb{url}
+      \verb https://direct.mit.edu/jocn/article/31/3/401/28957/Brain-to-Brain-Synchrony-and-Learning-Outcomes
+      \endverb
+    \endentry
+    \entry{derexExperimentalEvidenceInfluence2013}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=569c1c0f2e5dfb2816606875ea54fb66}{%
+           family={Derex},
+           familyi={D\bibinitperiod},
+           given={Maxime},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a6d37d0d090b9ab358ede7c6e3bcfb56}{%
+           family={Beugin},
+           familyi={B\bibinitperiod},
+           given={Marie-Pauline},
+           giveni={M\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c43d0b65cd5cafcd96d6a873001df15}{%
+           family={Godelle},
+           familyi={G\bibinitperiod},
+           given={Bernard},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c786c0ed4444dd30fa98dd3821571dda}{%
+           family={Raymond},
+           familyi={R\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{74eb4a4f72d42d91f92753bcf2cb0d98}
+      \strng{fullhash}{f8e2c89f410d15a4d5ed07ed42cc83d9}
+      \strng{bibnamehash}{f8e2c89f410d15a4d5ed07ed42cc83d9}
+      \strng{authorbibnamehash}{f8e2c89f410d15a4d5ed07ed42cc83d9}
+      \strng{authornamehash}{74eb4a4f72d42d91f92753bcf2cb0d98}
+      \strng{authorfullhash}{f8e2c89f410d15a4d5ed07ed42cc83d9}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{21}
+      \field{issn}{0028-0836, 1476-4687}
+      \field{journaltitle}{Nature}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{number}{7476}
+      \field{shortjournal}{Nature}
+      \field{title}{Experimental Evidence for the Influence of Group Size on Cultural Complexity}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{503}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{389\bibrangedash 391}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1038/nature12774
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\willu\\Zotero\\storage\\929NBKDA\\Derex et al. - 2013 - Experimental evidence for the influence of group s.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/nature12774
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/nature12774
+      \endverb
+    \endentry
+    \entry{hauserCooperatingFuture2014}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=fdafffda70ced39415cf09df1c788e71}{%
+           family={Hauser},
+           familyi={H\bibinitperiod},
+           given={Oliver\bibnamedelima P.},
+           giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=187c24b68c32371cc8f611424ad4a73d}{%
+           family={Rand},
+           familyi={R\bibinitperiod},
+           given={David\bibnamedelima G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e2a34ee0aca3c2199c2c9262e06263ad}{%
+           family={Peysakhovich},
+           familyi={P\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6b63180e77466ce81c34087d70a19cb9}{%
+           family={Nowak},
+           familyi={N\bibinitperiod},
+           given={Martin\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{7352ed02147bd649769097d06ef7e4a7}
+      \strng{fullhash}{2612ee4052daaee933776694f089407e}
+      \strng{bibnamehash}{2612ee4052daaee933776694f089407e}
+      \strng{authorbibnamehash}{2612ee4052daaee933776694f089407e}
+      \strng{authornamehash}{7352ed02147bd649769097d06ef7e4a7}
+      \strng{authorfullhash}{2612ee4052daaee933776694f089407e}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{An intergenerational cooperation game has been developed to study decision-making regarding resource use: when decisions about resource extraction were made individually the resource was rapidly depleted by a minority of defectors; the resource was sustainably maintained across generations, however, when decisions were made democratically by voting.}
+      \field{issn}{1476-4687}
+      \field{issue}{7508}
+      \field{journaltitle}{Nature}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{7508}
+      \field{title}{Cooperating with the Future}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{511}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{220\bibrangedash 223}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1038/nature13530
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\willu\\Zotero\\storage\\G9MVQDMX\\Hauser et al. - 2014 - Cooperating with the future.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/nature13530
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/nature13530
+      \endverb
+      \keyw{Evolutionary theory,Psychology and behaviour,Sustainability}
+    \endentry
+    \entry{hawkinsConductingRealtimeMultiplayer2015}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=65c77a473608b143fc89f4892247c6f1}{%
+           family={Hawkins},
+           familyi={H\bibinitperiod},
+           given={Robert\bibnamedelimb X.\bibnamedelimi D.},
+           giveni={R\bibinitperiod\bibinitdelim X\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{65c77a473608b143fc89f4892247c6f1}
+      \strng{fullhash}{65c77a473608b143fc89f4892247c6f1}
+      \strng{bibnamehash}{65c77a473608b143fc89f4892247c6f1}
+      \strng{authorbibnamehash}{65c77a473608b143fc89f4892247c6f1}
+      \strng{authornamehash}{65c77a473608b143fc89f4892247c6f1}
+      \strng{authorfullhash}{65c77a473608b143fc89f4892247c6f1}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Group behavior experiments require potentially large numbers of participants to interact in real time with perfect information about one another. In this paper, we address the methodological challenge of developing and conducting such experiments on the web, thereby broadening access to online labor markets as well as allowing for participation through mobile devices. In particular, we combine a set of recent web development technologies, including Node.js with the Socket.io module, HTML5 canvas, and jQuery, to provide a secure platform for pedagogical demonstrations and scalable, unsupervised experiment administration. Template code is provided for an example real-time behavioral game theory experiment which automatically pairs participants into dyads and places them into a virtual world. In total, this treatment is intended to allow those with a background in non-web-based programming to modify the template, which handles the technical server–client networking details, for their own experiments.}
+      \field{day}{1}
+      \field{issn}{1554-3528}
+      \field{journaltitle}{Behavior Research Methods}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{4}
+      \field{shortjournal}{Behav Res}
+      \field{title}{Conducting Real-Time Multiplayer Experiments on the Web}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{47}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{966\bibrangedash 976}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.3758/s13428-014-0515-6
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\willu\\Zotero\\storage\\V62M8DUS\\Hawkins - 2015 - Conducting real-time multiplayer experiments on th.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3758/s13428-014-0515-6
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3758/s13428-014-0515-6
+      \endverb
+      \keyw{Behavioral game theory,Node.js,Web experiments}
+    \endentry
+    \entry{janssenLabExperimentsStudy2010}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=8b074ed9bd9e784351f31b5651c486ff}{%
+           family={Janssen},
+           familyi={J\bibinitperiod},
+           given={Marco\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c670d2d89c3a94ef746e087a8799c893}{%
+           family={Holahan},
+           familyi={H\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=08368ec1a83e95c095267c5a91795097}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Allen},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=83bfc750a74aff11efa4bbcd04d4af05}{%
+           family={Ostrom},
+           familyi={O\bibinitperiod},
+           given={Elinor},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2175701f2131682a7d09171b27e71f7e}
+      \strng{fullhash}{cbbf138477759872a63dfe7d874c1845}
+      \strng{bibnamehash}{cbbf138477759872a63dfe7d874c1845}
+      \strng{authorbibnamehash}{cbbf138477759872a63dfe7d874c1845}
+      \strng{authornamehash}{2175701f2131682a7d09171b27e71f7e}
+      \strng{authorfullhash}{cbbf138477759872a63dfe7d874c1845}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Learning to Work Together In group endeavors, there is often a tension between working for the greater good of the group as a whole versus working for one's own benefit. Sometimes these paths coincide and sometimes they do not; furthermore, the choices made by other group members can influence the calculation of which path to take. A pair of studies now approaches this challenge from experimental and theoretical points of view. In a forest or fishery, harvesting of wood or food needs to take into account the renewable character of the resource, as well as spatial heterogeneity. Janssen et al. (p. 613 ; see the Perspective by Putterman ) show that communication among the group members is key, both to establishing a maintainable rate of harvesting, as well as enforcement via punishment of noncompliers. Boyd et al. (p. 617 ; see the Perspective by Putterman ) develop a model showing that punishment, which is a costly activity, is most effectively levied when implemented with the approval of group members; that is, coordinated punishment works to the benefit of the whole, whereas individual actions do not. , Communication and coordination are essential components in cooperative endeavors. , Governance of social-ecological systems is a major policy problem of the contemporary era. Field studies of fisheries, forests, and pastoral and water resources have identified many variables that influence the outcomes of governance efforts. We introduce an experimental environment that involves spatial and temporal resource dynamics in order to capture these two critical variables identified in field research. Previous behavioral experiments of commons dilemmas have found that people are willing to engage in costly punishment, frequently generating increases in gross benefits, contrary to game-theoretical predictions based on a static pay-off function. Results in our experimental environment find that costly punishment is again used but lacks a gross positive effect on resource harvesting unless combined with communication. These findings illustrate the importance of careful generalization from the laboratory to the world of policy.}
+      \field{day}{30}
+      \field{issn}{0036-8075, 1095-9203}
+      \field{journaltitle}{Science}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{5978}
+      \field{shortjournal}{Science}
+      \field{title}{Lab {{Experiments}} for the {{Study}} of {{Social-Ecological Systems}}}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{328}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{613\bibrangedash 617}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1126/science.1183532
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\willu\\Zotero\\storage\\9HPA44DB\\Janssen et al. - 2010 - Lab Experiments for the Study of Social-Ecological.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/10.1126/science.1183532
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/10.1126/science.1183532
+      \endverb
+    \endentry
+    \entry{joyceInterpersonalPredictorsOutcome2010}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c2a09b3e6af577648c0a55b97934cf89}{%
+           family={Joyce},
+           familyi={J\bibinitperiod},
+           given={Anthony\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af005e284d0690936260914349c9f248}{%
+           family={Ogrodniczuk},
+           familyi={O\bibinitperiod},
+           given={John\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a3982edd90246351c09bc0a44ad535e}{%
+           family={Piper},
+           familyi={P\bibinitperiod},
+           given={William\bibnamedelima E.},
+           giveni={W\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33bd150d570a0775ae04ab3ef7a2eed1}{%
+           family={Sheptycki},
+           familyi={S\bibinitperiod},
+           given={Amanda\bibnamedelima R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{72e2f089d922801f4873ea83a13b7225}
+      \strng{fullhash}{5e40c0813e12c27985fb983a02a9b3bb}
+      \strng{bibnamehash}{5e40c0813e12c27985fb983a02a9b3bb}
+      \strng{authorbibnamehash}{5e40c0813e12c27985fb983a02a9b3bb}
+      \strng{authornamehash}{72e2f089d922801f4873ea83a13b7225}
+      \strng{authorfullhash}{5e40c0813e12c27985fb983a02a9b3bb}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The current study represented a replication of previous research, addressing measures of interpersonal relatedness as predictors of outcome for dynamically oriented, short-term group (STG) psychotherapy for patients presenting with complicated grief. In an analysis of data from a comparative trial of two forms (interpretive, supportive) of STG therapy (n = 107), Ogrodniczuk, Piper, McCallum, Joyce and Rosie reported that three distinct indices of interpersonal relatedness—quality of object relations, current social functioning and attachment insecurity—each had significant relationships with measures of treatment outcome, with attachment insecurity emerging as the strongest predictor. The current study (n = 110) was based on data from a subsequent trial of the two therapy approaches that examined the effect of group composition on outcome, by Piper, Ogrodniczuk, Joyce, Weideman and Rosie. Predictor variables and outcome factors involved in the current analyses were similar or identical to those employed by Ogrodniczuk et al., and an identical analytic strategy was followed. Only the patient's attachment insecurity emerged as a strong predictor of psychotherapy outcome, providing a replication of the key finding from the previous study. The clinical implications and limitations of the results are discussed. Copyright © 2010 John Wiley \& Sons, Ltd. Key Practitioner Message: • Complicated grief (CG) is a distinct syndrome that is associated with definite distress and problems in functioning; there are empirically supported treatments available for CG. • Characteristics of the patient can influence the success of these treatments. • In particular, the patient's capacity for interpersonal relatedness will help determine the quality of engagement in the therapy process and treatment outcome. • Attachment insecurity is an important aspect of interpersonal relatedness and, based on replicated findings reported here, has a clear relationship with benefit from short-term group therapy for CG.}
+      \field{issn}{1099-0879}
+      \field{journaltitle}{Clinical Psychology \& Psychotherapy}
+      \field{langid}{french}
+      \field{number}{2}
+      \field{shorttitle}{Interpersonal predictors of outcome following short-term group therapy for complicated grief}
+      \field{title}{Interpersonal predictors of outcome following short-term group therapy for complicated grief: a replication}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{17}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{122\bibrangedash 135}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1002/cpp.686
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\willu\\Zotero\\storage\\EBVYNGIE\\Joyce et al. - 2010 - Interpersonal predictors of outcome following shor.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/cpp.686
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/cpp.686
+      \endverb
+      \keyw{Attachment Insecurity,Complicated Grief,Interpersonal Relatedness,Predictors of Outcome,Short-Term Group Therapy}
+    \endentry
+    \entry{kruegerFocusGroupsPractical2014}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=410727798f538b86101894c184407247}{%
+           family={Krueger},
+           familyi={K\bibinitperiod},
+           given={Richard\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications}%
+      }
+      \strng{namehash}{410727798f538b86101894c184407247}
+      \strng{fullhash}{410727798f538b86101894c184407247}
+      \strng{bibnamehash}{410727798f538b86101894c184407247}
+      \strng{authorbibnamehash}{410727798f538b86101894c184407247}
+      \strng{authornamehash}{410727798f538b86101894c184407247}
+      \strng{authorfullhash}{410727798f538b86101894c184407247}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This updated edition of Focus Groups: A Practical Guide for Applied Research walks readers step by step through the “how-tos” of conducting focus group research. Using an engaging, straightforward writing style, authors Richard A. Krueger and Mary Anne Casey draw on their many years of hands-on experience in the field to cut through theory and offer practical guidance on every facet of the focus group process, including tips for avoiding problems and pitfalls. The Fifth Edition is updated with the latest research and technological innovations and includes new coverage on planning with analysis in mind; creating conversational questions that have the potential for producing unique and valuable insights; the art of hosting a focus group; common sense thinking about reporting; more efficient strategies for planning the study; and emerging areas of focus group research, such as conducting cross-cultural, international, and Internet focus groups. “Krueger and Casey’s book does a magnificent job of incorporating both theoretical and practical approaches to the study of focus groups. It is the only hands-on book which explores the process of focus group research.” ? —Theresa Carilli, Purdue University Calumet}
+      \field{day}{14}
+      \field{eprinttype}{googlebooks}
+      \field{isbn}{978-1-4833-6523-7}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{pagetotal}{281}
+      \field{shorttitle}{Focus {{Groups}}}
+      \field{title}{Focus {{Groups}}: {{A Practical Guide}} for {{Applied Research}}}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \verb{eprint}
+      \verb 8wASBAAAQBAJ
+      \endverb
+      \keyw{Social Science / Research}
+    \endentry
+    \entry{nishiInequalityVisibilityWealth2015}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=07cc1758bc6ca706b60cc3460707f6f1}{%
+           family={Nishi},
+           familyi={N\bibinitperiod},
+           given={Akihiro},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d3ce34ef8c6320df32017948d1be807a}{%
+           family={Shirado},
+           familyi={S\bibinitperiod},
+           given={Hirokazu},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=187c24b68c32371cc8f611424ad4a73d}{%
+           family={Rand},
+           familyi={R\bibinitperiod},
+           given={David\bibnamedelima G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=014bb3937491dfed9938c208451cba72}{%
+           family={Christakis},
+           familyi={C\bibinitperiod},
+           given={Nicholas\bibnamedelima A.},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fc6de3dd0dd95da5be85f461f1e7ace2}
+      \strng{fullhash}{49013712d728e069e9a02c4400655fb9}
+      \strng{bibnamehash}{49013712d728e069e9a02c4400655fb9}
+      \strng{authorbibnamehash}{49013712d728e069e9a02c4400655fb9}
+      \strng{authornamehash}{fc6de3dd0dd95da5be85f461f1e7ace2}
+      \strng{authorfullhash}{49013712d728e069e9a02c4400655fb9}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0028-0836, 1476-4687}
+      \field{journaltitle}{Nature}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{7573}
+      \field{shortjournal}{Nature}
+      \field{title}{Inequality and Visibility of Wealth in Experimental Social Networks}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{526}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{426\bibrangedash 429}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1038/nature15392
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\willu\\Zotero\\storage\\RX5A2WM9\\Nishi et al. - 2015 - Inequality and visibility of wealth in experimenta.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nature.com/articles/nature15392
+      \endverb
+      \verb{url}
+      \verb http://www.nature.com/articles/nature15392
+      \endverb
+    \endentry
+    \entry{osbornePupilsViewsRole2001}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=27557d3c4aa09be3b318f1c80216a350}{%
+           family={Osborne},
+           familyi={O\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6bf82d10155580700bbf71bfd10da106}{%
+           family={Collins},
+           familyi={C\bibinitperiod},
+           given={Sue},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{f063719063378e2cc15c72263c698451}
+      \strng{fullhash}{f063719063378e2cc15c72263c698451}
+      \strng{bibnamehash}{f063719063378e2cc15c72263c698451}
+      \strng{authorbibnamehash}{f063719063378e2cc15c72263c698451}
+      \strng{authornamehash}{f063719063378e2cc15c72263c698451}
+      \strng{authorfullhash}{f063719063378e2cc15c72263c698451}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Pupils' perceptions of their experience of school science have rarely been investigated. The aim of the research reported in this paper, therefore, was to document the range of views that pupils held about the school science curriculum, the aspects they found either interesting and/or valuable, and their views about its future content. As such, the research aimed to articulate their views as a contribution to the debate about the future form and function of the school science curriculum. The method adopted to elicit their views was to use focus groups-a methodology that has not been extensively used in the science education research. Reported here are the findings from 20 focus groups conducted with 144 16-year-old pupils in London, Leeds and Birmingham, split both by gender and whether the pupils intended to continue, or not, with the study of science post-16. The findings of this research offer a window into pupils' perspective of school science revealing both their discontents and satisfaction with the existing curriculum. On the negative side, many pupils perceived school science to be a subject dominated by content with too much repetition and too little challenge. From a more positive perspective, pupils saw the study of science as important and were engaged by topics where they could perceive an immediate relevance, practical work, material that was challenging and high-quality teaching. The implications of these findings and the insights they provide for curriculum policy and school science curricula are discussed.}
+      \field{day}{1}
+      \field{issn}{0950-0693}
+      \field{journaltitle}{International Journal of Science Education}
+      \field{month}{5}
+      \field{number}{5}
+      \field{shorttitle}{Pupils' Views of the Role and Value of the Science Curriculum}
+      \field{title}{Pupils' Views of the Role and Value of the Science Curriculum: {{A}} Focus-Group Study}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{23}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{441\bibrangedash 467}
+      \range{pages}{27}
+      \verb{doi}
+      \verb 10.1080/09500690010006518
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\willu\\Zotero\\storage\\KS98FCKX\\Osborne and Collins - 2001 - Pupils' views of the role and value of the science.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/09500690010006518
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/09500690010006518
+      \endverb
+    \endentry
+    \entry{rebokTenYearEffectsAdvanced2014}{article}{}
+      \name{author}{11}{}{%
+        {{un=0,uniquepart=base,hash=80982878f54980b655174ca934fe4c45}{%
+           family={Rebok},
+           familyi={R\bibinitperiod},
+           given={George\bibnamedelima W.},
+           giveni={G\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f4e93bb01a600af4e731496bf1ed60c}{%
+           family={Ball},
+           familyi={B\bibinitperiod},
+           given={Karlene},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cc1c2a99380745b5ee3133b1bede73ee}{%
+           family={Guey},
+           familyi={G\bibinitperiod},
+           given={Lin\bibnamedelima T.},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5ab47cff517b5271fc313dea19a63bfb}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Richard\bibnamedelima N.},
+           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38c15942409019792b80d250f274b38b}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Hae-Young},
+           giveni={H\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e11fd885be46add0d8b63262fef2520f}{%
+           family={King},
+           familyi={K\bibinitperiod},
+           given={Jonathan\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d75788324ac741ffcdddac907ac5e664}{%
+           family={Marsiske},
+           familyi={M\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=199de667ae84af645ebde73caae6d385}{%
+           family={Morris},
+           familyi={M\bibinitperiod},
+           given={John\bibnamedelima N.},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=698d2bd27040229d092e08576397ff6d}{%
+           family={Tennstedt},
+           familyi={T\bibinitperiod},
+           given={Sharon\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c3601dc1537837f15454ff8e1bf6dd80}{%
+           family={Unverzagt},
+           familyi={U\bibinitperiod},
+           given={Frederick\bibnamedelima W.},
+           giveni={F\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1409a66059a9cb0d4177ad9253be5f4f}{%
+           family={Willis},
+           familyi={W\bibinitperiod},
+           given={Sherry\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{463cfdb7755e1845073959f839c399cc}
+      \strng{fullhash}{45ce99e9d9d02c7a462d311950c1864e}
+      \strng{bibnamehash}{45ce99e9d9d02c7a462d311950c1864e}
+      \strng{authorbibnamehash}{45ce99e9d9d02c7a462d311950c1864e}
+      \strng{authornamehash}{463cfdb7755e1845073959f839c399cc}
+      \strng{authorfullhash}{45ce99e9d9d02c7a462d311950c1864e}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Objectives To determine the effects of cognitive training on cognitive abilities and everyday function over 10 years. Design Ten-year follow-up of a randomized, controlled single-blind trial (Advanced Cognitive Training for Independent and Vital Elderly (ACTIVE)) with three intervention groups and a no-contact control group. Setting Six U.S. cities. Participants A volunteer sample of 2,832 persons (mean baseline age 73.6; 26\% African American) living independently. Intervention Ten training sessions for memory, reasoning, or speed of processing; four sessions of booster training 11 and 35 months after initial training. Measurements Objectively measured cognitive abilities and self-reported and performance-based measures of everyday function. Results Participants in each intervention group reported less difficulty with instrumental activities of daily living (IADLs) (memory: effect size = 0.48, 99\% confidence interval (CI) = 0.12–0.84; reasoning: effect size = 0.38, 99\% CI = 0.02–0.74; speed of processing: effect size = 0.36, 99\% CI = 0.01–0.72). At a mean age of 82, approximately 60\% of trained participants, versus 50\% of controls (P {$<$} .05), were at or above their baseline level of self-reported IADL function at 10 years. The reasoning and speed-of-processing interventions maintained their effects on their targeted cognitive abilities at 10 years (reasoning: effect size = 0.23, 99\% CI = 0.09–0.38; speed of processing: effect size = 0.66, 99\% CI = 0.43–0.88). Memory training effects were no longer maintained for memory performance. Booster training produced additional and durable improvement for the reasoning intervention for reasoning performance (effect size = 0.21, 99\% CI = 0.01–0.41) and the speed-of-processing intervention for speed-of-processing performance (effect size = 0.62, 99\% CI = 0.31–0.93). Conclusion Each Advanced Cognitive Training for Independent and Vital Elderly cognitive intervention resulted in less decline in self-reported IADL compared with the control group. Reasoning and speed, but not memory, training resulted in improved targeted cognitive abilities for 10 years.}
+      \field{issn}{1532-5415}
+      \field{journaltitle}{Journal of the American Geriatrics Society}
+      \field{langid}{english}
+      \field{number}{1}
+      \field{title}{Ten-{{Year Effects}} of the {{Advanced Cognitive Training}} for {{Independent}} and {{Vital Elderly Cognitive Training Trial}} on {{Cognition}} and {{Everyday Functioning}} in {{Older Adults}}}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{62}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{16\bibrangedash 24}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1111/jgs.12607
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\willu\\Zotero\\storage\\NCQ86T64\\Rebok et al. - 2014 - Ten-Year Effects of the Advanced Cognitive Trainin.pdf;C\:\\Users\\willu\\Zotero\\storage\\4Q38QZL4\\jgs.html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/jgs.12607
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/jgs.12607
+      \endverb
+      \keyw{cognitive abilities,cognitive training,elderly,everyday function,training maintenance}
+    \endentry
+    \entry{sauterBuildingHostingRecruiting2020}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2ef4f4dc4482cd37444f3428b3e5d4cc}{%
+           family={Sauter},
+           familyi={S\bibinitperiod},
+           given={Marian},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b4fa3ebb91e03615865e9460c9cebf6f}{%
+           family={Draschkow},
+           familyi={D\bibinitperiod},
+           given={Dejan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8008de08c94d3a3b556c19c62c5ae233}{%
+           family={Mack},
+           familyi={M\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute}%
+      }
+      \strng{namehash}{f628839af35d99f5894e19610c7c8254}
+      \strng{fullhash}{e6718e67554a2ab7eb9912e6435259b4}
+      \strng{bibnamehash}{e6718e67554a2ab7eb9912e6435259b4}
+      \strng{authorbibnamehash}{e6718e67554a2ab7eb9912e6435259b4}
+      \strng{authornamehash}{f628839af35d99f5894e19610c7c8254}
+      \strng{authorfullhash}{e6718e67554a2ab7eb9912e6435259b4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Researchers have ample reasons to take their experimental studies out of the lab and into the online wilderness. For some, it is out of necessity, due to an unforeseen laboratory closure or difficulties in recruiting on-site participants. Others want to benefit from the large and diverse online population. However, the transition from in-lab to online data acquisition is not trivial and might seem overwhelming at first. To facilitate this transition, we present an overview of actively maintained solutions for the critical components of successful online data acquisition: creating, hosting and recruiting. Our aim is to provide a brief introductory resource and discuss important considerations for researchers who are taking their first steps towards online experimentation.}
+      \field{issn}{2076-3425}
+      \field{issue}{4}
+      \field{journaltitle}{Brain Sciences}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{4}
+      \field{shorttitle}{Building, {{Hosting}} and {{Recruiting}}}
+      \field{title}{Building, {{Hosting}} and {{Recruiting}}: {{A Brief Introduction}} to {{Running Behavioral Experiments Online}}}
+      \field{urlday}{9}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{10}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{251}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/brainsci10040251
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\willu\\Zotero\\storage\\2IUND2NQ\\Sauter et al. - 2020 - Building, Hosting and Recruiting A Brief Introduc.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2076-3425/10/4/251
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2076-3425/10/4/251
+      \endverb
+      \keyw{behavioral sciences,online experiments,online methods,remote testing}
+    \endentry
+    \entry{spoonTeamEffectivenessCreative2021}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=25ff639279030ecd4ab731c63556120a}{%
+           family={Spoon},
+           familyi={S\bibinitperiod},
+           given={Robyn},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=acd62c6158e490d8c037f0db0f4c262f}{%
+           family={Rubenstein},
+           familyi={R\bibinitperiod},
+           given={Lisa\bibnamedelima DaVia},
+           giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0948486188e96f7eb74724470251b58d}{%
+           family={Terwillegar},
+           familyi={T\bibinitperiod},
+           given={Shelby\bibnamedelima R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1c722407403102a9e6a1397bcd4e49b7}
+      \strng{fullhash}{f0a998fe4cac20a31d325994836badc4}
+      \strng{bibnamehash}{f0a998fe4cac20a31d325994836badc4}
+      \strng{authorbibnamehash}{f0a998fe4cac20a31d325994836badc4}
+      \strng{authornamehash}{1c722407403102a9e6a1397bcd4e49b7}
+      \strng{authorfullhash}{f0a998fe4cac20a31d325994836badc4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This study investigated the collective creative problem solving (CPS) processes and beliefs within a self-regulated learning (SRL) framework within a younger population, in order to further the research and provide practical advice to practitioners. Third through twelfth grade students (N = 120) competed in a creative problem-solving competition in which appraisers evaluated their creative problem-solving (e.g. teamwork, creativity, effective solution). Using a Micro-Macro Mutli-Level Modeling (MMMLM) analysis approach, this study sought to account for the multi-level nature of the data in the team-based environment in which the predictor variables were at the individual level and the outcome was at the team-level. Many of the individual forethought variables correlated (i.e. participant age, mastery experiences, creative collective efficacy, task value, and outcome expectations) with the team outcomes, and the model, including all forethought variables, explains approximately 64 \% of the variance in the team score. The results also show that task value was the only forethought variable to significantly predict the team score outcome variable after accounting for the nested structure of the data.}
+      \field{day}{1}
+      \field{issn}{1871-1871}
+      \field{journaltitle}{Thinking Skills and Creativity}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{shortjournal}{Thinking Skills and Creativity}
+      \field{shorttitle}{Team Effectiveness in Creative Problem Solving}
+      \field{title}{Team Effectiveness in Creative Problem Solving: {{Examining}} the Role of Students’ Motivational Beliefs and Task Analyses in Team Performance}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{40}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{100792}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.tsc.2021.100792
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\willu\\Zotero\\storage\\3P9PZ67U\\Spoon et al. - 2021 - Team effectiveness in creative problem solving Ex.pdf;C\:\\Users\\willu\\Zotero\\storage\\3KA73W35\\S1871187121000079.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1871187121000079
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1871187121000079
+      \endverb
+      \keyw{Creative collective problem-solving,Creative problem-solving,Creative teamwork,Self-regulated learning,Team-efficacy}
+    \endentry
+    \entry{yeagerNationalExperimentReveals2019}{article}{}
+      \name{author}{25}{}{%
+        {{un=0,uniquepart=base,hash=29e4cf98bc82a9cb2ee225ee485b4d47}{%
+           family={Yeager},
+           familyi={Y\bibinitperiod},
+           given={David\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f3ccf9c757a8f12081311d815fad3ae5}{%
+           family={Hanselman},
+           familyi={H\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d16cfe0616ca760675b473fa47608d4a}{%
+           family={Walton},
+           familyi={W\bibinitperiod},
+           given={Gregory\bibnamedelima M.},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c20d47b74055146f17ef38d5af267df8}{%
+           family={Murray},
+           familyi={M\bibinitperiod},
+           given={Jared\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=adcb63e9944e874a5c1b464c2a9b88f7}{%
+           family={Crosnoe},
+           familyi={C\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6fdaa2a787dc671d527b968235feb652}{%
+           family={Muller},
+           familyi={M\bibinitperiod},
+           given={Chandra},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d9861996fb6441a98f3eb4ecd065c3fa}{%
+           family={Tipton},
+           familyi={T\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c106bfd4c5d6e2dcf80e3a5557f1239}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1729f54d52e7c37eb0ede2f3bba237c0}{%
+           family={Hulleman},
+           familyi={H\bibinitperiod},
+           given={Chris\bibnamedelima S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a1e4bf0d57f090250f182eb07f58d535}{%
+           family={Hinojosa},
+           familyi={H\bibinitperiod},
+           given={Cintia\bibnamedelima P.},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=34937eec7610ef667f6c4869b5980870}{%
+           family={Paunesku},
+           familyi={P\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d4b10d2281a9c6343b50252b662bfe63}{%
+           family={Romero},
+           familyi={R\bibinitperiod},
+           given={Carissa},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=794a51af389092d044db6e893abec6db}{%
+           family={Flint},
+           familyi={F\bibinitperiod},
+           given={Kate},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c03c554df0fe179a74008e07de1120a}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={Alice},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=621ef67101f98972f13430aa12217289}{%
+           family={Trott},
+           familyi={T\bibinitperiod},
+           given={Jill},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b43eb2762640f4edb847a257f83e0bb5}{%
+           family={Iachan},
+           familyi={I\bibinitperiod},
+           given={Ronaldo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f8351020640d8e01f7f297d79f285d2}{%
+           family={Buontempo},
+           familyi={B\bibinitperiod},
+           given={Jenny},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8270421586ecdbdecc05fd7b49a86d7d}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Sophia\bibnamedelima Man},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=55232ef1384c95cd1e224d51498c6631}{%
+           family={Carvalho},
+           familyi={C\bibinitperiod},
+           given={Carlos\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d765c10fe66e87ea6fb1f184352d659a}{%
+           family={Hahn},
+           familyi={H\bibinitperiod},
+           given={P.\bibnamedelimi Richard},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d04c0afcac7051a34e289c345d737a0f}{%
+           family={Gopalan},
+           familyi={G\bibinitperiod},
+           given={Maithreyi},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cea732ac9fd149126c48d512bd7c8a21}{%
+           family={Mhatre},
+           familyi={M\bibinitperiod},
+           given={Pratik},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=03fa4030268620a7712af3ffdc829d91}{%
+           family={Ferguson},
+           familyi={F\bibinitperiod},
+           given={Ronald},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=745826feaa18d1db3b9253d3769d906f}{%
+           family={Duckworth},
+           familyi={D\bibinitperiod},
+           given={Angela\bibnamedelima L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b17886cfc5445214b8ea243f7282583f}{%
+           family={Dweck},
+           familyi={D\bibinitperiod},
+           given={Carol\bibnamedelima S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{6ebaa51c1563c08d1f33f7222bcda909}
+      \strng{fullhash}{85d1f6354b39245c4325c74ba88d8c0b}
+      \strng{bibnamehash}{b01d4580371e8d2231585ce883e814cd}
+      \strng{authorbibnamehash}{b01d4580371e8d2231585ce883e814cd}
+      \strng{authornamehash}{6ebaa51c1563c08d1f33f7222bcda909}
+      \strng{authorfullhash}{85d1f6354b39245c4325c74ba88d8c0b}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A global priority for the behavioural sciences is to develop cost-effective, scalable interventions that could improve the academic outcomes of adolescents at a population level, but no such interventions have so far been evaluated in a population-generalizable sample. Here we show that a short (less than one hour), online growth mindset intervention—which teaches that intellectual abilities can be developed—improved grades among lower-achieving students and increased overall enrolment to advanced mathematics courses in a nationally representative sample of students in secondary education in the United States. Notably, the study identified school contexts that sustained the effects of the growth mindset intervention: the intervention changed grades when peer norms aligned with the messages of the intervention. Confidence in the conclusions of this study comes from independent data collection and processing, pre-registration of analyses, and corroboration of results by a blinded Bayesian analysis.}
+      \field{issn}{1476-4687}
+      \field{issue}{7774}
+      \field{journaltitle}{Nature}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{7774}
+      \field{title}{A National Experiment Reveals Where a Growth Mindset Improves Achievement}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{573}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{364\bibrangedash 369}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1038/s41586-019-1466-y
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\willu\\Zotero\\storage\\J4QH2TS8\\Yeager et al. - 2019 - A national experiment reveals where a growth minds.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/s41586-019-1466-y)
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/s41586-019-1466-y)
+      \endverb
+      \keyw{Human behaviour,Risk factors}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{alrawiHowWellDoodle2016}{inbook}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=59d11ce37fe598f02c876d0f4f3a7a82}{%
+           family={Alrawi},
+           familyi={A\bibinitperiod},
+           given={Danya},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f77eb9d61713d32a5510996fa9780680}{%
+           family={Anthony},
+           familyi={A\bibinitperiod},
+           given={Barbara\bibnamedelima M.},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b079877809074425d13a0e0be8591bf1}{%
+           family={Chung},
+           familyi={C\bibinitperiod},
+           given={Christine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=1045765b1dd2788870b9ad2a30b942f9}{%
+           family={Spiro},
+           familyi={S\bibinitperiod},
+           given={Emma},
+           giveni={E\bibinitperiod}}}%
+        {{hash=2a5db80283bd913987288e85515d3ed4}{%
+           family={Ahn},
+           familyi={A\bibinitperiod},
+           given={Yong-Yeol},
+           giveni={Y\bibinithyphendelim Y\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{d4122035c7aab017e03207e35dc3ecce}
+      \strng{fullhash}{0676def9c0057274e1f543259b5c050a}
+      \strng{bibnamehash}{0676def9c0057274e1f543259b5c050a}
+      \strng{authorbibnamehash}{0676def9c0057274e1f543259b5c050a}
+      \strng{authornamehash}{d4122035c7aab017e03207e35dc3ecce}
+      \strng{authorfullhash}{0676def9c0057274e1f543259b5c050a}
+      \strng{editorbibnamehash}{741047f13d48dd64d84b0812ee214f12}
+      \strng{editornamehash}{741047f13d48dd64d84b0812ee214f12}
+      \strng{editorfullhash}{741047f13d48dd64d84b0812ee214f12}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Web-based Doodle polls, where respondents indicate their availability for a collection of times provided by the poll initiator, are an increasingly common way of selecting a time for an event or meeting. Yet group dynamics can markedly influence an individual’s response, and thus the overall solution quality. Via theoretical worst-case analysis, we analyze certain common behaviors of Doodle poll respondents, including when participants are either more generous with or more protective of their time, showing that deviating from one’s “true availability” can have a substantial impact on the overall quality of the selected time. We show perhaps counter-intuitively that being more generous with your time can lead to inferior time slots being selected, and being more protective of your time can lead to superior time slots being selected. We also bound the improvement and degradation of outcome quality under both types of behaviors.}
+      \field{booktitle}{Social {{Informatics}}}
+      \field{isbn}{978-3-319-47880-7}
+      \field{langid}{english}
+      \field{series}{Lecture {{Notes}} in {{Computer Science}}}
+      \field{title}{How {{Well Do Doodle Polls Do}}?}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{3\bibrangedash 23}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1007/978-3-319-47880-7_1
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\willu\\Zotero\\storage\\P756E3B9\\Alrawi et al. - 2016 - How Well Do Doodle Polls Do.pdf
+      \endverb
+      \keyw{Approval Vote,Social Welfare,Strategic Vote,Time Slot,Vote Behavior}
+    \endentry
+    \entry{balafoutasAffirmativeActionPolicies2012}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4f261cfd234f0af48de3e72930b489a2}{%
+           family={Balafoutas},
+           familyi={B\bibinitperiod},
+           given={Loukas},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=848a999889a2e54a98fd472b1ba29520}{%
+           family={Sutter},
+           familyi={S\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4b6eed214bc523262208df63ba35c8c8}
+      \strng{fullhash}{4b6eed214bc523262208df63ba35c8c8}
+      \strng{bibnamehash}{4b6eed214bc523262208df63ba35c8c8}
+      \strng{authorbibnamehash}{4b6eed214bc523262208df63ba35c8c8}
+      \strng{authornamehash}{4b6eed214bc523262208df63ba35c8c8}
+      \strng{authorfullhash}{4b6eed214bc523262208df63ba35c8c8}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Girl Power The potential of affirmative action policies to reduce overall outcomes because of lower individual performance has been discussed widely and at length. But do quotas or preferential treatment of applicants alter the pool of candidates? Balafoutas and Sutter (p. 579 ; see the Perspective by Villeval ) used an existing laboratory-based task to assess the change in composition of winning candidates and the overall outcome as a function of three affirmative action policies. Policies designed to encourage more women to enter a competitive environment served to recruit enough high-performing individuals to ensure that the efficiency in performing the task was preserved. Beaman et al. (p. 582 , published online 12 January) examined the effects of a constitutionally mandated reservation of village-council and council-leader positions for women in West Bengal after two election cycles (1998 and 2003). The program appeared to narrow the gender gap in aspirations of parents for their children and of children for themselves; in addition, teenage girls spent more time in school and less on household chores. Beliefs and attitudes changed only after the second set of elections—that is, after a longer exposure to female role models—complementing the more rapid policy changes instituted by women council leaders after the first round of elections. , Increasing the representation of competition-averse individuals does not alter overall output. , Gender differences in choosing to enter competitions are one source of unequal labor market outcomes concerning wages and promotions. Given that studying the effects of policy interventions to support women is difficult with field data because of measurement problems and potential lack of control, we evaluated, in a set of controlled laboratory experiments, four interventions: quotas, where one of two winners of a competition must be female; two variants of preferential treatment, where a fixed increment is added to women’s performance; and repetition of the competition, where a second competition takes place if no woman is among the winners. Compared with no intervention, all interventions encourage women to enter competitions more often, and performance is at least equally good, both during and after the competition.}
+      \field{day}{3}
+      \field{issn}{0036-8075, 1095-9203}
+      \field{journaltitle}{Science}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{6068}
+      \field{shortjournal}{Science}
+      \field{title}{Affirmative {{Action Policies Promote Women}} and {{Do Not Harm Efficiency}} in the {{Laboratory}}}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{335}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{579\bibrangedash 582}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1126/science.1211180
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\willu\\Zotero\\storage\\TNAE45DV\\Balafoutas and Sutter - 2012 - Affirmative Action Policies Promote Women and Do N.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/10.1126/science.1211180
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/10.1126/science.1211180
+      \endverb
+    \endentry
+    \entry{bevilacquaBraintoBrainSynchronyLearning2019}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=5e8a868a2dbf6882b044104c6b08c108}{%
+           family={Bevilacqua},
+           familyi={B\bibinitperiod},
+           given={Dana},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9951726314c89c48aacc4cb0ec683781}{%
+           family={Davidesco},
+           familyi={D\bibinitperiod},
+           given={Ido},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b2dd00488ed9a8b87c2f05a2c0370208}{%
+           family={Wan},
+           familyi={W\bibinitperiod},
+           given={Lu},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5da280bed4b67a53ff4da7f332f8daac}{%
+           family={Chaloner},
+           familyi={C\bibinitperiod},
+           given={Kim},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=72d38c366fd464d97fb85388e023e6e0}{%
+           family={Rowland},
+           familyi={R\bibinitperiod},
+           given={Jess},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b5883de6d1f035fe3bf7d9898aa49213}{%
+           family={Ding},
+           familyi={D\bibinitperiod},
+           given={Mingzhou},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5a255466127f21ac513063a1ffd8cab6}{%
+           family={Poeppel},
+           familyi={P\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8879dd079f04d6a3d6073d5b91c6d719}{%
+           family={Dikker},
+           familyi={D\bibinitperiod},
+           given={Suzanne},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1f67549767b8280cfa4a16e04d9f7002}
+      \strng{fullhash}{08a98fb4c802abae166df7f6f93fc01f}
+      \strng{bibnamehash}{08a98fb4c802abae166df7f6f93fc01f}
+      \strng{authorbibnamehash}{08a98fb4c802abae166df7f6f93fc01f}
+      \strng{authornamehash}{1f67549767b8280cfa4a16e04d9f7002}
+      \strng{authorfullhash}{08a98fb4c802abae166df7f6f93fc01f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Abstract How does the human brain support real-world learning? We used wireless electroencephalography to collect neurophysiological data from a group of 12 senior high school students and their teacher during regular biology lessons. Six scheduled classes over the course of the semester were organized such that class materials were presented using different teaching styles (videos and lectures), and students completed a multiple-choice quiz after each class to measure their retention of that lesson's content. Both students' brain-to-brain synchrony and their content retention were higher for videos than lectures across the six classes. Brain-to-brain synchrony between the teacher and students varied as a function of student engagement as well as teacher likeability: Students who reported greater social closeness to the teacher showed higher brain-to-brain synchrony with the teacher, but this was only the case for lectures—that is, when the teacher is an integral part of the content presentation. Furthermore, students' retention of the class content correlated with student–teacher closeness, but not with brain-to-brain synchrony. These findings expand on existing social neuroscience research by showing that social factors such as perceived closeness are reflected in brain-to-brain synchrony in real-world group settings and can predict cognitive outcomes such as students' academic performance.}
+      \field{day}{1}
+      \field{issn}{0898-929X, 1530-8898}
+      \field{journaltitle}{Journal of Cognitive Neuroscience}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{3}
+      \field{shorttitle}{Brain-to-{{Brain Synchrony}} and {{Learning Outcomes Vary}} by {{Student}}–{{Teacher Dynamics}}}
+      \field{title}{Brain-to-{{Brain Synchrony}} and {{Learning Outcomes Vary}} by {{Student}}–{{Teacher Dynamics}}: {{Evidence}} from a {{Real-world Classroom Electroencephalography Study}}}
+      \field{urlday}{10}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{31}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{401\bibrangedash 411}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1162/jocn_a_01274
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\willu\\Zotero\\storage\\EQXM26BW\\Bevilacqua et al. - 2019 - Brain-to-Brain Synchrony and Learning Outcomes Var.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://direct.mit.edu/jocn/article/31/3/401/28957/Brain-to-Brain-Synchrony-and-Learning-Outcomes
+      \endverb
+      \verb{url}
+      \verb https://direct.mit.edu/jocn/article/31/3/401/28957/Brain-to-Brain-Synchrony-and-Learning-Outcomes
+      \endverb
+    \endentry
+    \entry{derexExperimentalEvidenceInfluence2013}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=569c1c0f2e5dfb2816606875ea54fb66}{%
+           family={Derex},
+           familyi={D\bibinitperiod},
+           given={Maxime},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a6d37d0d090b9ab358ede7c6e3bcfb56}{%
+           family={Beugin},
+           familyi={B\bibinitperiod},
+           given={Marie-Pauline},
+           giveni={M\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c43d0b65cd5cafcd96d6a873001df15}{%
+           family={Godelle},
+           familyi={G\bibinitperiod},
+           given={Bernard},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c786c0ed4444dd30fa98dd3821571dda}{%
+           family={Raymond},
+           familyi={R\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{74eb4a4f72d42d91f92753bcf2cb0d98}
+      \strng{fullhash}{f8e2c89f410d15a4d5ed07ed42cc83d9}
+      \strng{bibnamehash}{f8e2c89f410d15a4d5ed07ed42cc83d9}
+      \strng{authorbibnamehash}{f8e2c89f410d15a4d5ed07ed42cc83d9}
+      \strng{authornamehash}{74eb4a4f72d42d91f92753bcf2cb0d98}
+      \strng{authorfullhash}{f8e2c89f410d15a4d5ed07ed42cc83d9}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{21}
+      \field{issn}{0028-0836, 1476-4687}
+      \field{journaltitle}{Nature}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{number}{7476}
+      \field{shortjournal}{Nature}
+      \field{title}{Experimental Evidence for the Influence of Group Size on Cultural Complexity}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{503}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{389\bibrangedash 391}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1038/nature12774
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\willu\\Zotero\\storage\\929NBKDA\\Derex et al. - 2013 - Experimental evidence for the influence of group s.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/nature12774
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/nature12774
+      \endverb
+    \endentry
+    \entry{hauserCooperatingFuture2014}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=fdafffda70ced39415cf09df1c788e71}{%
+           family={Hauser},
+           familyi={H\bibinitperiod},
+           given={Oliver\bibnamedelima P.},
+           giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=187c24b68c32371cc8f611424ad4a73d}{%
+           family={Rand},
+           familyi={R\bibinitperiod},
+           given={David\bibnamedelima G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e2a34ee0aca3c2199c2c9262e06263ad}{%
+           family={Peysakhovich},
+           familyi={P\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6b63180e77466ce81c34087d70a19cb9}{%
+           family={Nowak},
+           familyi={N\bibinitperiod},
+           given={Martin\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{7352ed02147bd649769097d06ef7e4a7}
+      \strng{fullhash}{2612ee4052daaee933776694f089407e}
+      \strng{bibnamehash}{2612ee4052daaee933776694f089407e}
+      \strng{authorbibnamehash}{2612ee4052daaee933776694f089407e}
+      \strng{authornamehash}{7352ed02147bd649769097d06ef7e4a7}
+      \strng{authorfullhash}{2612ee4052daaee933776694f089407e}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{An intergenerational cooperation game has been developed to study decision-making regarding resource use: when decisions about resource extraction were made individually the resource was rapidly depleted by a minority of defectors; the resource was sustainably maintained across generations, however, when decisions were made democratically by voting.}
+      \field{issn}{1476-4687}
+      \field{issue}{7508}
+      \field{journaltitle}{Nature}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{7508}
+      \field{title}{Cooperating with the Future}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{511}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{220\bibrangedash 223}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1038/nature13530
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\willu\\Zotero\\storage\\G9MVQDMX\\Hauser et al. - 2014 - Cooperating with the future.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/nature13530
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/nature13530
+      \endverb
+      \keyw{Evolutionary theory,Psychology and behaviour,Sustainability}
+    \endentry
+    \entry{hawkinsConductingRealtimeMultiplayer2015}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=65c77a473608b143fc89f4892247c6f1}{%
+           family={Hawkins},
+           familyi={H\bibinitperiod},
+           given={Robert\bibnamedelimb X.\bibnamedelimi D.},
+           giveni={R\bibinitperiod\bibinitdelim X\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{65c77a473608b143fc89f4892247c6f1}
+      \strng{fullhash}{65c77a473608b143fc89f4892247c6f1}
+      \strng{bibnamehash}{65c77a473608b143fc89f4892247c6f1}
+      \strng{authorbibnamehash}{65c77a473608b143fc89f4892247c6f1}
+      \strng{authornamehash}{65c77a473608b143fc89f4892247c6f1}
+      \strng{authorfullhash}{65c77a473608b143fc89f4892247c6f1}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Group behavior experiments require potentially large numbers of participants to interact in real time with perfect information about one another. In this paper, we address the methodological challenge of developing and conducting such experiments on the web, thereby broadening access to online labor markets as well as allowing for participation through mobile devices. In particular, we combine a set of recent web development technologies, including Node.js with the Socket.io module, HTML5 canvas, and jQuery, to provide a secure platform for pedagogical demonstrations and scalable, unsupervised experiment administration. Template code is provided for an example real-time behavioral game theory experiment which automatically pairs participants into dyads and places them into a virtual world. In total, this treatment is intended to allow those with a background in non-web-based programming to modify the template, which handles the technical server–client networking details, for their own experiments.}
+      \field{day}{1}
+      \field{issn}{1554-3528}
+      \field{journaltitle}{Behavior Research Methods}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{4}
+      \field{shortjournal}{Behav Res}
+      \field{title}{Conducting Real-Time Multiplayer Experiments on the Web}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{47}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{966\bibrangedash 976}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.3758/s13428-014-0515-6
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\willu\\Zotero\\storage\\V62M8DUS\\Hawkins - 2015 - Conducting real-time multiplayer experiments on th.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3758/s13428-014-0515-6
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3758/s13428-014-0515-6
+      \endverb
+      \keyw{Behavioral game theory,Node.js,Web experiments}
+    \endentry
+    \entry{janssenLabExperimentsStudy2010}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=8b074ed9bd9e784351f31b5651c486ff}{%
+           family={Janssen},
+           familyi={J\bibinitperiod},
+           given={Marco\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c670d2d89c3a94ef746e087a8799c893}{%
+           family={Holahan},
+           familyi={H\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=08368ec1a83e95c095267c5a91795097}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Allen},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=83bfc750a74aff11efa4bbcd04d4af05}{%
+           family={Ostrom},
+           familyi={O\bibinitperiod},
+           given={Elinor},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2175701f2131682a7d09171b27e71f7e}
+      \strng{fullhash}{cbbf138477759872a63dfe7d874c1845}
+      \strng{bibnamehash}{cbbf138477759872a63dfe7d874c1845}
+      \strng{authorbibnamehash}{cbbf138477759872a63dfe7d874c1845}
+      \strng{authornamehash}{2175701f2131682a7d09171b27e71f7e}
+      \strng{authorfullhash}{cbbf138477759872a63dfe7d874c1845}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Learning to Work Together In group endeavors, there is often a tension between working for the greater good of the group as a whole versus working for one's own benefit. Sometimes these paths coincide and sometimes they do not; furthermore, the choices made by other group members can influence the calculation of which path to take. A pair of studies now approaches this challenge from experimental and theoretical points of view. In a forest or fishery, harvesting of wood or food needs to take into account the renewable character of the resource, as well as spatial heterogeneity. Janssen et al. (p. 613 ; see the Perspective by Putterman ) show that communication among the group members is key, both to establishing a maintainable rate of harvesting, as well as enforcement via punishment of noncompliers. Boyd et al. (p. 617 ; see the Perspective by Putterman ) develop a model showing that punishment, which is a costly activity, is most effectively levied when implemented with the approval of group members; that is, coordinated punishment works to the benefit of the whole, whereas individual actions do not. , Communication and coordination are essential components in cooperative endeavors. , Governance of social-ecological systems is a major policy problem of the contemporary era. Field studies of fisheries, forests, and pastoral and water resources have identified many variables that influence the outcomes of governance efforts. We introduce an experimental environment that involves spatial and temporal resource dynamics in order to capture these two critical variables identified in field research. Previous behavioral experiments of commons dilemmas have found that people are willing to engage in costly punishment, frequently generating increases in gross benefits, contrary to game-theoretical predictions based on a static pay-off function. Results in our experimental environment find that costly punishment is again used but lacks a gross positive effect on resource harvesting unless combined with communication. These findings illustrate the importance of careful generalization from the laboratory to the world of policy.}
+      \field{day}{30}
+      \field{issn}{0036-8075, 1095-9203}
+      \field{journaltitle}{Science}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{5978}
+      \field{shortjournal}{Science}
+      \field{title}{Lab {{Experiments}} for the {{Study}} of {{Social-Ecological Systems}}}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{328}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{613\bibrangedash 617}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1126/science.1183532
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\willu\\Zotero\\storage\\9HPA44DB\\Janssen et al. - 2010 - Lab Experiments for the Study of Social-Ecological.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/10.1126/science.1183532
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/10.1126/science.1183532
+      \endverb
+    \endentry
+    \entry{joyceInterpersonalPredictorsOutcome2010}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c2a09b3e6af577648c0a55b97934cf89}{%
+           family={Joyce},
+           familyi={J\bibinitperiod},
+           given={Anthony\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af005e284d0690936260914349c9f248}{%
+           family={Ogrodniczuk},
+           familyi={O\bibinitperiod},
+           given={John\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a3982edd90246351c09bc0a44ad535e}{%
+           family={Piper},
+           familyi={P\bibinitperiod},
+           given={William\bibnamedelima E.},
+           giveni={W\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33bd150d570a0775ae04ab3ef7a2eed1}{%
+           family={Sheptycki},
+           familyi={S\bibinitperiod},
+           given={Amanda\bibnamedelima R.},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{72e2f089d922801f4873ea83a13b7225}
+      \strng{fullhash}{5e40c0813e12c27985fb983a02a9b3bb}
+      \strng{bibnamehash}{5e40c0813e12c27985fb983a02a9b3bb}
+      \strng{authorbibnamehash}{5e40c0813e12c27985fb983a02a9b3bb}
+      \strng{authornamehash}{72e2f089d922801f4873ea83a13b7225}
+      \strng{authorfullhash}{5e40c0813e12c27985fb983a02a9b3bb}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The current study represented a replication of previous research, addressing measures of interpersonal relatedness as predictors of outcome for dynamically oriented, short-term group (STG) psychotherapy for patients presenting with complicated grief. In an analysis of data from a comparative trial of two forms (interpretive, supportive) of STG therapy (n = 107), Ogrodniczuk, Piper, McCallum, Joyce and Rosie reported that three distinct indices of interpersonal relatedness—quality of object relations, current social functioning and attachment insecurity—each had significant relationships with measures of treatment outcome, with attachment insecurity emerging as the strongest predictor. The current study (n = 110) was based on data from a subsequent trial of the two therapy approaches that examined the effect of group composition on outcome, by Piper, Ogrodniczuk, Joyce, Weideman and Rosie. Predictor variables and outcome factors involved in the current analyses were similar or identical to those employed by Ogrodniczuk et al., and an identical analytic strategy was followed. Only the patient's attachment insecurity emerged as a strong predictor of psychotherapy outcome, providing a replication of the key finding from the previous study. The clinical implications and limitations of the results are discussed. Copyright © 2010 John Wiley \& Sons, Ltd. Key Practitioner Message: • Complicated grief (CG) is a distinct syndrome that is associated with definite distress and problems in functioning; there are empirically supported treatments available for CG. • Characteristics of the patient can influence the success of these treatments. • In particular, the patient's capacity for interpersonal relatedness will help determine the quality of engagement in the therapy process and treatment outcome. • Attachment insecurity is an important aspect of interpersonal relatedness and, based on replicated findings reported here, has a clear relationship with benefit from short-term group therapy for CG.}
+      \field{issn}{1099-0879}
+      \field{journaltitle}{Clinical Psychology \& Psychotherapy}
+      \field{langid}{french}
+      \field{number}{2}
+      \field{shorttitle}{Interpersonal predictors of outcome following short-term group therapy for complicated grief}
+      \field{title}{Interpersonal predictors of outcome following short-term group therapy for complicated grief: a replication}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{17}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{122\bibrangedash 135}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1002/cpp.686
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\willu\\Zotero\\storage\\EBVYNGIE\\Joyce et al. - 2010 - Interpersonal predictors of outcome following shor.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/cpp.686
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/cpp.686
+      \endverb
+      \keyw{Attachment Insecurity,Complicated Grief,Interpersonal Relatedness,Predictors of Outcome,Short-Term Group Therapy}
+    \endentry
+    \entry{kruegerFocusGroupsPractical2014}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=410727798f538b86101894c184407247}{%
+           family={Krueger},
+           familyi={K\bibinitperiod},
+           given={Richard\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications}%
+      }
+      \strng{namehash}{410727798f538b86101894c184407247}
+      \strng{fullhash}{410727798f538b86101894c184407247}
+      \strng{bibnamehash}{410727798f538b86101894c184407247}
+      \strng{authorbibnamehash}{410727798f538b86101894c184407247}
+      \strng{authornamehash}{410727798f538b86101894c184407247}
+      \strng{authorfullhash}{410727798f538b86101894c184407247}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This updated edition of Focus Groups: A Practical Guide for Applied Research walks readers step by step through the “how-tos” of conducting focus group research. Using an engaging, straightforward writing style, authors Richard A. Krueger and Mary Anne Casey draw on their many years of hands-on experience in the field to cut through theory and offer practical guidance on every facet of the focus group process, including tips for avoiding problems and pitfalls. The Fifth Edition is updated with the latest research and technological innovations and includes new coverage on planning with analysis in mind; creating conversational questions that have the potential for producing unique and valuable insights; the art of hosting a focus group; common sense thinking about reporting; more efficient strategies for planning the study; and emerging areas of focus group research, such as conducting cross-cultural, international, and Internet focus groups. “Krueger and Casey’s book does a magnificent job of incorporating both theoretical and practical approaches to the study of focus groups. It is the only hands-on book which explores the process of focus group research.” ? —Theresa Carilli, Purdue University Calumet}
+      \field{day}{14}
+      \field{eprinttype}{googlebooks}
+      \field{isbn}{978-1-4833-6523-7}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{pagetotal}{281}
+      \field{shorttitle}{Focus {{Groups}}}
+      \field{title}{Focus {{Groups}}: {{A Practical Guide}} for {{Applied Research}}}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \verb{eprint}
+      \verb 8wASBAAAQBAJ
+      \endverb
+      \keyw{Social Science / Research}
+    \endentry
+    \entry{nishiInequalityVisibilityWealth2015}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=07cc1758bc6ca706b60cc3460707f6f1}{%
+           family={Nishi},
+           familyi={N\bibinitperiod},
+           given={Akihiro},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d3ce34ef8c6320df32017948d1be807a}{%
+           family={Shirado},
+           familyi={S\bibinitperiod},
+           given={Hirokazu},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=187c24b68c32371cc8f611424ad4a73d}{%
+           family={Rand},
+           familyi={R\bibinitperiod},
+           given={David\bibnamedelima G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=014bb3937491dfed9938c208451cba72}{%
+           family={Christakis},
+           familyi={C\bibinitperiod},
+           given={Nicholas\bibnamedelima A.},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fc6de3dd0dd95da5be85f461f1e7ace2}
+      \strng{fullhash}{49013712d728e069e9a02c4400655fb9}
+      \strng{bibnamehash}{49013712d728e069e9a02c4400655fb9}
+      \strng{authorbibnamehash}{49013712d728e069e9a02c4400655fb9}
+      \strng{authornamehash}{fc6de3dd0dd95da5be85f461f1e7ace2}
+      \strng{authorfullhash}{49013712d728e069e9a02c4400655fb9}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0028-0836, 1476-4687}
+      \field{journaltitle}{Nature}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{7573}
+      \field{shortjournal}{Nature}
+      \field{title}{Inequality and Visibility of Wealth in Experimental Social Networks}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{526}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{426\bibrangedash 429}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1038/nature15392
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\willu\\Zotero\\storage\\RX5A2WM9\\Nishi et al. - 2015 - Inequality and visibility of wealth in experimenta.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nature.com/articles/nature15392
+      \endverb
+      \verb{url}
+      \verb http://www.nature.com/articles/nature15392
+      \endverb
+    \endentry
+    \entry{osbornePupilsViewsRole2001}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=27557d3c4aa09be3b318f1c80216a350}{%
+           family={Osborne},
+           familyi={O\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6bf82d10155580700bbf71bfd10da106}{%
+           family={Collins},
+           familyi={C\bibinitperiod},
+           given={Sue},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{f063719063378e2cc15c72263c698451}
+      \strng{fullhash}{f063719063378e2cc15c72263c698451}
+      \strng{bibnamehash}{f063719063378e2cc15c72263c698451}
+      \strng{authorbibnamehash}{f063719063378e2cc15c72263c698451}
+      \strng{authornamehash}{f063719063378e2cc15c72263c698451}
+      \strng{authorfullhash}{f063719063378e2cc15c72263c698451}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Pupils' perceptions of their experience of school science have rarely been investigated. The aim of the research reported in this paper, therefore, was to document the range of views that pupils held about the school science curriculum, the aspects they found either interesting and/or valuable, and their views about its future content. As such, the research aimed to articulate their views as a contribution to the debate about the future form and function of the school science curriculum. The method adopted to elicit their views was to use focus groups-a methodology that has not been extensively used in the science education research. Reported here are the findings from 20 focus groups conducted with 144 16-year-old pupils in London, Leeds and Birmingham, split both by gender and whether the pupils intended to continue, or not, with the study of science post-16. The findings of this research offer a window into pupils' perspective of school science revealing both their discontents and satisfaction with the existing curriculum. On the negative side, many pupils perceived school science to be a subject dominated by content with too much repetition and too little challenge. From a more positive perspective, pupils saw the study of science as important and were engaged by topics where they could perceive an immediate relevance, practical work, material that was challenging and high-quality teaching. The implications of these findings and the insights they provide for curriculum policy and school science curricula are discussed.}
+      \field{day}{1}
+      \field{issn}{0950-0693}
+      \field{journaltitle}{International Journal of Science Education}
+      \field{month}{5}
+      \field{number}{5}
+      \field{shorttitle}{Pupils' Views of the Role and Value of the Science Curriculum}
+      \field{title}{Pupils' Views of the Role and Value of the Science Curriculum: {{A}} Focus-Group Study}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{23}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{441\bibrangedash 467}
+      \range{pages}{27}
+      \verb{doi}
+      \verb 10.1080/09500690010006518
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\willu\\Zotero\\storage\\KS98FCKX\\Osborne and Collins - 2001 - Pupils' views of the role and value of the science.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/09500690010006518
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/09500690010006518
+      \endverb
+    \endentry
+    \entry{rebokTenYearEffectsAdvanced2014}{article}{}
+      \name{author}{11}{}{%
+        {{un=0,uniquepart=base,hash=80982878f54980b655174ca934fe4c45}{%
+           family={Rebok},
+           familyi={R\bibinitperiod},
+           given={George\bibnamedelima W.},
+           giveni={G\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f4e93bb01a600af4e731496bf1ed60c}{%
+           family={Ball},
+           familyi={B\bibinitperiod},
+           given={Karlene},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cc1c2a99380745b5ee3133b1bede73ee}{%
+           family={Guey},
+           familyi={G\bibinitperiod},
+           given={Lin\bibnamedelima T.},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5ab47cff517b5271fc313dea19a63bfb}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Richard\bibnamedelima N.},
+           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38c15942409019792b80d250f274b38b}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Hae-Young},
+           giveni={H\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e11fd885be46add0d8b63262fef2520f}{%
+           family={King},
+           familyi={K\bibinitperiod},
+           given={Jonathan\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d75788324ac741ffcdddac907ac5e664}{%
+           family={Marsiske},
+           familyi={M\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=199de667ae84af645ebde73caae6d385}{%
+           family={Morris},
+           familyi={M\bibinitperiod},
+           given={John\bibnamedelima N.},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=698d2bd27040229d092e08576397ff6d}{%
+           family={Tennstedt},
+           familyi={T\bibinitperiod},
+           given={Sharon\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c3601dc1537837f15454ff8e1bf6dd80}{%
+           family={Unverzagt},
+           familyi={U\bibinitperiod},
+           given={Frederick\bibnamedelima W.},
+           giveni={F\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1409a66059a9cb0d4177ad9253be5f4f}{%
+           family={Willis},
+           familyi={W\bibinitperiod},
+           given={Sherry\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{463cfdb7755e1845073959f839c399cc}
+      \strng{fullhash}{45ce99e9d9d02c7a462d311950c1864e}
+      \strng{bibnamehash}{45ce99e9d9d02c7a462d311950c1864e}
+      \strng{authorbibnamehash}{45ce99e9d9d02c7a462d311950c1864e}
+      \strng{authornamehash}{463cfdb7755e1845073959f839c399cc}
+      \strng{authorfullhash}{45ce99e9d9d02c7a462d311950c1864e}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Objectives To determine the effects of cognitive training on cognitive abilities and everyday function over 10 years. Design Ten-year follow-up of a randomized, controlled single-blind trial (Advanced Cognitive Training for Independent and Vital Elderly (ACTIVE)) with three intervention groups and a no-contact control group. Setting Six U.S. cities. Participants A volunteer sample of 2,832 persons (mean baseline age 73.6; 26\% African American) living independently. Intervention Ten training sessions for memory, reasoning, or speed of processing; four sessions of booster training 11 and 35 months after initial training. Measurements Objectively measured cognitive abilities and self-reported and performance-based measures of everyday function. Results Participants in each intervention group reported less difficulty with instrumental activities of daily living (IADLs) (memory: effect size = 0.48, 99\% confidence interval (CI) = 0.12–0.84; reasoning: effect size = 0.38, 99\% CI = 0.02–0.74; speed of processing: effect size = 0.36, 99\% CI = 0.01–0.72). At a mean age of 82, approximately 60\% of trained participants, versus 50\% of controls (P {$<$} .05), were at or above their baseline level of self-reported IADL function at 10 years. The reasoning and speed-of-processing interventions maintained their effects on their targeted cognitive abilities at 10 years (reasoning: effect size = 0.23, 99\% CI = 0.09–0.38; speed of processing: effect size = 0.66, 99\% CI = 0.43–0.88). Memory training effects were no longer maintained for memory performance. Booster training produced additional and durable improvement for the reasoning intervention for reasoning performance (effect size = 0.21, 99\% CI = 0.01–0.41) and the speed-of-processing intervention for speed-of-processing performance (effect size = 0.62, 99\% CI = 0.31–0.93). Conclusion Each Advanced Cognitive Training for Independent and Vital Elderly cognitive intervention resulted in less decline in self-reported IADL compared with the control group. Reasoning and speed, but not memory, training resulted in improved targeted cognitive abilities for 10 years.}
+      \field{issn}{1532-5415}
+      \field{journaltitle}{Journal of the American Geriatrics Society}
+      \field{langid}{english}
+      \field{number}{1}
+      \field{title}{Ten-{{Year Effects}} of the {{Advanced Cognitive Training}} for {{Independent}} and {{Vital Elderly Cognitive Training Trial}} on {{Cognition}} and {{Everyday Functioning}} in {{Older Adults}}}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{62}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{16\bibrangedash 24}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1111/jgs.12607
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\willu\\Zotero\\storage\\NCQ86T64\\Rebok et al. - 2014 - Ten-Year Effects of the Advanced Cognitive Trainin.pdf;C\:\\Users\\willu\\Zotero\\storage\\4Q38QZL4\\jgs.html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/jgs.12607
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/jgs.12607
+      \endverb
+      \keyw{cognitive abilities,cognitive training,elderly,everyday function,training maintenance}
+    \endentry
+    \entry{sauterBuildingHostingRecruiting2020}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2ef4f4dc4482cd37444f3428b3e5d4cc}{%
+           family={Sauter},
+           familyi={S\bibinitperiod},
+           given={Marian},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b4fa3ebb91e03615865e9460c9cebf6f}{%
+           family={Draschkow},
+           familyi={D\bibinitperiod},
+           given={Dejan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8008de08c94d3a3b556c19c62c5ae233}{%
+           family={Mack},
+           familyi={M\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute}%
+      }
+      \strng{namehash}{f628839af35d99f5894e19610c7c8254}
+      \strng{fullhash}{e6718e67554a2ab7eb9912e6435259b4}
+      \strng{bibnamehash}{e6718e67554a2ab7eb9912e6435259b4}
+      \strng{authorbibnamehash}{e6718e67554a2ab7eb9912e6435259b4}
+      \strng{authornamehash}{f628839af35d99f5894e19610c7c8254}
+      \strng{authorfullhash}{e6718e67554a2ab7eb9912e6435259b4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Researchers have ample reasons to take their experimental studies out of the lab and into the online wilderness. For some, it is out of necessity, due to an unforeseen laboratory closure or difficulties in recruiting on-site participants. Others want to benefit from the large and diverse online population. However, the transition from in-lab to online data acquisition is not trivial and might seem overwhelming at first. To facilitate this transition, we present an overview of actively maintained solutions for the critical components of successful online data acquisition: creating, hosting and recruiting. Our aim is to provide a brief introductory resource and discuss important considerations for researchers who are taking their first steps towards online experimentation.}
+      \field{issn}{2076-3425}
+      \field{issue}{4}
+      \field{journaltitle}{Brain Sciences}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{4}
+      \field{shorttitle}{Building, {{Hosting}} and {{Recruiting}}}
+      \field{title}{Building, {{Hosting}} and {{Recruiting}}: {{A Brief Introduction}} to {{Running Behavioral Experiments Online}}}
+      \field{urlday}{9}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{10}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{251}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/brainsci10040251
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\willu\\Zotero\\storage\\2IUND2NQ\\Sauter et al. - 2020 - Building, Hosting and Recruiting A Brief Introduc.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2076-3425/10/4/251
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2076-3425/10/4/251
+      \endverb
+      \keyw{behavioral sciences,online experiments,online methods,remote testing}
+    \endentry
+    \entry{spoonTeamEffectivenessCreative2021}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=25ff639279030ecd4ab731c63556120a}{%
+           family={Spoon},
+           familyi={S\bibinitperiod},
+           given={Robyn},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=acd62c6158e490d8c037f0db0f4c262f}{%
+           family={Rubenstein},
+           familyi={R\bibinitperiod},
+           given={Lisa\bibnamedelima DaVia},
+           giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0948486188e96f7eb74724470251b58d}{%
+           family={Terwillegar},
+           familyi={T\bibinitperiod},
+           given={Shelby\bibnamedelima R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1c722407403102a9e6a1397bcd4e49b7}
+      \strng{fullhash}{f0a998fe4cac20a31d325994836badc4}
+      \strng{bibnamehash}{f0a998fe4cac20a31d325994836badc4}
+      \strng{authorbibnamehash}{f0a998fe4cac20a31d325994836badc4}
+      \strng{authornamehash}{1c722407403102a9e6a1397bcd4e49b7}
+      \strng{authorfullhash}{f0a998fe4cac20a31d325994836badc4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This study investigated the collective creative problem solving (CPS) processes and beliefs within a self-regulated learning (SRL) framework within a younger population, in order to further the research and provide practical advice to practitioners. Third through twelfth grade students (N = 120) competed in a creative problem-solving competition in which appraisers evaluated their creative problem-solving (e.g. teamwork, creativity, effective solution). Using a Micro-Macro Mutli-Level Modeling (MMMLM) analysis approach, this study sought to account for the multi-level nature of the data in the team-based environment in which the predictor variables were at the individual level and the outcome was at the team-level. Many of the individual forethought variables correlated (i.e. participant age, mastery experiences, creative collective efficacy, task value, and outcome expectations) with the team outcomes, and the model, including all forethought variables, explains approximately 64 \% of the variance in the team score. The results also show that task value was the only forethought variable to significantly predict the team score outcome variable after accounting for the nested structure of the data.}
+      \field{day}{1}
+      \field{issn}{1871-1871}
+      \field{journaltitle}{Thinking Skills and Creativity}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{shortjournal}{Thinking Skills and Creativity}
+      \field{shorttitle}{Team Effectiveness in Creative Problem Solving}
+      \field{title}{Team Effectiveness in Creative Problem Solving: {{Examining}} the Role of Students’ Motivational Beliefs and Task Analyses in Team Performance}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{40}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{100792}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.tsc.2021.100792
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\willu\\Zotero\\storage\\3P9PZ67U\\Spoon et al. - 2021 - Team effectiveness in creative problem solving Ex.pdf;C\:\\Users\\willu\\Zotero\\storage\\3KA73W35\\S1871187121000079.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1871187121000079
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1871187121000079
+      \endverb
+      \keyw{Creative collective problem-solving,Creative problem-solving,Creative teamwork,Self-regulated learning,Team-efficacy}
+    \endentry
+    \entry{yeagerNationalExperimentReveals2019}{article}{}
+      \name{author}{25}{}{%
+        {{un=0,uniquepart=base,hash=29e4cf98bc82a9cb2ee225ee485b4d47}{%
+           family={Yeager},
+           familyi={Y\bibinitperiod},
+           given={David\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f3ccf9c757a8f12081311d815fad3ae5}{%
+           family={Hanselman},
+           familyi={H\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d16cfe0616ca760675b473fa47608d4a}{%
+           family={Walton},
+           familyi={W\bibinitperiod},
+           given={Gregory\bibnamedelima M.},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c20d47b74055146f17ef38d5af267df8}{%
+           family={Murray},
+           familyi={M\bibinitperiod},
+           given={Jared\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=adcb63e9944e874a5c1b464c2a9b88f7}{%
+           family={Crosnoe},
+           familyi={C\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6fdaa2a787dc671d527b968235feb652}{%
+           family={Muller},
+           familyi={M\bibinitperiod},
+           given={Chandra},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d9861996fb6441a98f3eb4ecd065c3fa}{%
+           family={Tipton},
+           familyi={T\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c106bfd4c5d6e2dcf80e3a5557f1239}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1729f54d52e7c37eb0ede2f3bba237c0}{%
+           family={Hulleman},
+           familyi={H\bibinitperiod},
+           given={Chris\bibnamedelima S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a1e4bf0d57f090250f182eb07f58d535}{%
+           family={Hinojosa},
+           familyi={H\bibinitperiod},
+           given={Cintia\bibnamedelima P.},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=34937eec7610ef667f6c4869b5980870}{%
+           family={Paunesku},
+           familyi={P\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d4b10d2281a9c6343b50252b662bfe63}{%
+           family={Romero},
+           familyi={R\bibinitperiod},
+           given={Carissa},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=794a51af389092d044db6e893abec6db}{%
+           family={Flint},
+           familyi={F\bibinitperiod},
+           given={Kate},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c03c554df0fe179a74008e07de1120a}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={Alice},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=621ef67101f98972f13430aa12217289}{%
+           family={Trott},
+           familyi={T\bibinitperiod},
+           given={Jill},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b43eb2762640f4edb847a257f83e0bb5}{%
+           family={Iachan},
+           familyi={I\bibinitperiod},
+           given={Ronaldo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f8351020640d8e01f7f297d79f285d2}{%
+           family={Buontempo},
+           familyi={B\bibinitperiod},
+           given={Jenny},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8270421586ecdbdecc05fd7b49a86d7d}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Sophia\bibnamedelima Man},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=55232ef1384c95cd1e224d51498c6631}{%
+           family={Carvalho},
+           familyi={C\bibinitperiod},
+           given={Carlos\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d765c10fe66e87ea6fb1f184352d659a}{%
+           family={Hahn},
+           familyi={H\bibinitperiod},
+           given={P.\bibnamedelimi Richard},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d04c0afcac7051a34e289c345d737a0f}{%
+           family={Gopalan},
+           familyi={G\bibinitperiod},
+           given={Maithreyi},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cea732ac9fd149126c48d512bd7c8a21}{%
+           family={Mhatre},
+           familyi={M\bibinitperiod},
+           given={Pratik},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=03fa4030268620a7712af3ffdc829d91}{%
+           family={Ferguson},
+           familyi={F\bibinitperiod},
+           given={Ronald},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=745826feaa18d1db3b9253d3769d906f}{%
+           family={Duckworth},
+           familyi={D\bibinitperiod},
+           given={Angela\bibnamedelima L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b17886cfc5445214b8ea243f7282583f}{%
+           family={Dweck},
+           familyi={D\bibinitperiod},
+           given={Carol\bibnamedelima S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{6ebaa51c1563c08d1f33f7222bcda909}
+      \strng{fullhash}{85d1f6354b39245c4325c74ba88d8c0b}
+      \strng{bibnamehash}{b01d4580371e8d2231585ce883e814cd}
+      \strng{authorbibnamehash}{b01d4580371e8d2231585ce883e814cd}
+      \strng{authornamehash}{6ebaa51c1563c08d1f33f7222bcda909}
+      \strng{authorfullhash}{85d1f6354b39245c4325c74ba88d8c0b}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A global priority for the behavioural sciences is to develop cost-effective, scalable interventions that could improve the academic outcomes of adolescents at a population level, but no such interventions have so far been evaluated in a population-generalizable sample. Here we show that a short (less than one hour), online growth mindset intervention—which teaches that intellectual abilities can be developed—improved grades among lower-achieving students and increased overall enrolment to advanced mathematics courses in a nationally representative sample of students in secondary education in the United States. Notably, the study identified school contexts that sustained the effects of the growth mindset intervention: the intervention changed grades when peer norms aligned with the messages of the intervention. Confidence in the conclusions of this study comes from independent data collection and processing, pre-registration of analyses, and corroboration of results by a blinded Bayesian analysis.}
+      \field{issn}{1476-4687}
+      \field{issue}{7774}
+      \field{journaltitle}{Nature}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{7774}
+      \field{title}{A National Experiment Reveals Where a Growth Mindset Improves Achievement}
+      \field{urlday}{5}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{volume}{573}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{364\bibrangedash 369}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1038/s41586-019-1466-y
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\willu\\Zotero\\storage\\J4QH2TS8\\Yeager et al. - 2019 - A national experiment reveals where a growth minds.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/s41586-019-1466-y)
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/s41586-019-1466-y)
+      \endverb
+      \keyw{Human behaviour,Risk factors}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

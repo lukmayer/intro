@@ -1,0 +1,107 @@
+\documentclass{article}
+\usepackage[style=apa,backend=biber]{biblatex}
+\addbibresource{allocation_paper.bib}
+\title{Intro skeleton}
+\date{May 5, 2023}
+\author{Lukas Mayer}
+\usepackage{indentfirst}
+\begin{document}
+  \pagenumbering{arabic}
+  \maketitle
+  \section*{Introduction}
+  
+  \par
+  Group-based research is ubiqutous and
+  becoming increasingly large-scale with the popularization of 
+  online recruitment systems. 
+  Empirical research using small and large groups can  be found in fields as diverse as 
+  behavioural game theory (\cite{hawkinsConductingRealtimeMultiplayer2015}),
+  evidence-based social policy (\cite{balafoutasAffirmativeActionPolicies2012, janssenLabExperimentsStudy2010, hauserCooperatingFuture2014, nishiInequalityVisibilityWealth2015}),
+  cumulative cultural evolution (\cite{derexExperimentalEvidenceInfluence2013}),
+  psychotherapy (\cite{rebokTenYearEffectsAdvanced2014, joyceInterpersonalPredictorsOutcome2010}),
+  education (\cite{osbornePupilsViewsRole2001, yeagerNationalExperimentReveals2019}),
+  and organizational psychology (\cite{spoonTeamEffectivenessCreative2021}). 
+  Furthermore, focus groups are an extremely popular method most large, consumer-facing
+  enterprises employ to derive insights about their products and services,
+  meaning group-based research is also widely practiced outside of academia (\cite{kruegerFocusGroupsPractical2014}).
+  %Explore one or two papers in more detail
+  As online participant recruitment systems become increasingly popular with
+  both industrial and academic researchers (\cite{sauterBuildingHostingRecruiting2020}), social scientists can quickly recruit 
+  large numbers of people which then have to be organized into group units for further study. 
+  When the research design is complex 
+  (e.g., where multiple sessions or a screening process is involved), 
+  scheduling all these participants for
+  appointments in a manner which is resource-conscious becomes highly challenging. 
+  
+  \par 
+  Interestingly, contemporary tools researchers use to address these scheduling problems 
+  lack the sophistication to solve this problem adequately.
+  It appears the vast majority
+  of social scientists employ one of two methods to resolve participant scheduling.
+  The first common method includes tools such as Sona (\cite{sauterBuildingHostingRecruiting2020}),
+  where each invidivual in the pool of interested participants self-selects a single appointment
+  to undertake the study from a set of appointments the researcher specified in advance. 
+  This method was primarily designed with individual-based research projects in mind and is both effective and pragmatic in this context. 
+  For individual lab sessions, participants can select the first appointment that suits their schedule, 
+  keeping the cognitive exertion required by the participant at this stage minimal. 
+  However, this method of self-selecting single appointments can become highly inefficient
+  in group-research contexts. The unsuitability arises from the fact that most group-research seeks
+  to recruit groups whose member count falls into a particular range.
+  Since a group, by definition, must have at least three members, there are three broad categories of desirable group member ranges in group research: 
+  1) precise group sizes (e.g., groups of exactly four), 2) groups with some leeway (e.g., groups of three to five), and open-ended groups (e.g., three or more people).
+  In appointment self-selection contexts where 1) or 2) applies, some participants are bound to find their desired appointment already at capacity. In any case, 
+  they may inadvertedly select an appointment which is not popular enough to be feasible.
+  Signing up to an appointment which ends up being infeasible and thus cancelled with a plea by the researcher to attempt scheduling another one can be a
+  frustrating experience for participants and therefore likely increases the propensity of such participants to disengage entirely.
+  Thus, while appearing pragmatic at face value, self-selection of singular appointments results in researchers having too
+  little information and flexibility to accomodate at least a portion of their sample, risking a laborious allocation process
+  which may negatively impact participant retention. 
+  The second popular method involves participants indicating their availability
+  to attend each timeslot in the set of timeslots the researcher defined a priori, as is the case with Doodle poll (\cite{alrawiHowWellDoodle2016}).
+  Once participants have indicated their availabilities, the researcher invites elligible participants to the single most popular session.  
+  This method places more initial cognitive labour on the participant but ensures 
+  participants will not have to be repeatedly rescheduled since invitations will only be sent for viable sessions.
+  This approach to allocation is most useful when seeking to host a single session
+  with a maximal number of attendees, as can be the case for single-occurence events. However, like the first method, it conflicts with the 
+  researcher's needs for groups of specific sizes, 
+  while also discarding every participant who did not select the most popular session. 
+  This is primarily due to these tools' specific focus on identifying the single best event, rather than a set of events.
+  Since the event proposed by these tools is the single most popular one, there is no in-built consideration of the group sizes
+  which poses problems to group research that does not want so recruit a single, large group of people.
+  \par
+  There is a strong case for an allocation system that maximizes the number of groups across sessions. 
+  As a toy example, consider a hypothetical scenario where we have four interested participants (A, B, C, D), want to recruit pairs, and running multiple sessions is possible.
+  The researcher provided exactly three timeslots for the participants to choose from (T1, T2, T3) and the participants choices are as follows:
+  A: T1, T3; B: T1, T3; C: T1, T2; D: T2. 
+  In this case, the single most popular timeslot had three signups. Since we can only run dyads, running T1 would only grant us one group, 
+  and will render both other timeslots infeasable if we do not carefully consider whether to run the session with A and B over A and C.
+  This conundrum arises since running A and C will mean no other timeslot will have at least two elligible people.  
+  Suppose we had an algorithm which instead proposed a context-sensitive solution, where A, B are allocated to T3; and C, D to T2.  
+  This set-based solution makes perfect use of our sample, allocating all four individuals to give rise to two dyads.
+  It should also be noted that the likelihood of erroneously making inefficient allocations is only exacerbated in larger samples due to their vastly greater combinatoric space.
+  Thus, prioritizing single slots without considering the rest of the sample risks inefficient allocations, which can lead to underpowered research and unneccessary frustration. 
+  
+  \par 
+  Given the obligation to make efficient use of participant resources, 
+  there is a growing need for systems that are purpose-built for group allocations which do not suffer from the aforementioned drawbacks.
+  To reiterate, an ideal system would find the set of timeslots (rather than a single timeslot) which are expected to achieve the optimal number of attendees. 
+  If the sessions are costly to run (e.g., social cognitive neuroscience experiments similar to \cite{bevilacquaBraintoBrainSynchronyLearning2019}),
+  this might be the smallest set of slots that satisfy size criterions maximally well.
+  Should the researcher instead be more concerned with the statistical power of 
+  planned group-level analyses, they alternatively may be seeking the largest possible set of viable timeslots.
+  Unlike the aforementioned methods, finding an optimal set of slots poses a computational challenge, since there is no obvious analytical method to derive the optimal allocation.
+  In fact, one may have to try every combination of participants and their selected timeslots to verify that one has found the best solution.
+  
+  \par
+  Instead of seeking mathematically optimal algorithms, our aim with this paper was to provide initial, empirically-informed solutions
+  which are accessible enough for researchers to utilize in their own practice.
+  We first propose a methodology which allows us to study this set of allocation problems through simulation.
+  Secondly, we present metrics with which the quality of an allocation can be evaluated in the context of the researcher's specific needs.
+  Thirdly, we developed a set of heuristics to make allocation decisions. 
+  We apply each metaheuristic to a wide array of different simulated research scenarios, and make relative comparisons of their performance in these contexts.
+  We conclude by demonstrating how our code can be applied to a real-world dataset. 
+
+  
+  
+  \printbibliography
+\end{document}
